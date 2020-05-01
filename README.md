@@ -1,13 +1,11 @@
-# Windows-Priviledge-Escalation-Resources
-Compilation of Resources from TCM's Windows Priv Esc Udemy Course
+# Windows-Priviledge-Escalation-Resources 
 
 ### General Links 
 
-Link to Website: https://www.thecybermentor.com/
+Link to Website: *********
 
-Link to course: https://www.udemy.com/course/windows-privilege-escalation-for-beginners/
-
-Link to discord server: https://discord.gg/RHZ7UF7
+Link to course: ***********************
+Telegram Channel: ******************
 
 HackTheBox: https://www.hackthebox.eu/
 
